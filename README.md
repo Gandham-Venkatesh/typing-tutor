@@ -19,7 +19,7 @@
 
 ![HardType Screenshot](screenshot.png)
 
-> Make sure to add a `screenshot.png` image in your repo for better appearance.
+
 
 ---
 
