@@ -40,7 +40,7 @@ HardType/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/hardtype.git
+   git clone https://github.com/gandham-venkatesh/hardtype.git
    cd hardtype
    ```
 
